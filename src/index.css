@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  color: rgb(62, 42, 214);
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+
+div.grow {
+    -moz : osx - font - smoothing grayscale;
+    -webkit : font - smoothing antialiased;
+    transform: translateZ(0);
+    transition: transform 0.5s ease - out;
+}
+
+div.grow  hover,
+.grow:focus {
+    transform: scale(2.05);
+    
+}
