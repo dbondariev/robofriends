@@ -37,7 +37,7 @@ export const robots = [
     },
     {
         id: 7,
-        name: 'Сергій Вашкевич',
+        name: 'Sergey Vaskevych',
         username: 'Sergey VVV',
         email: 'SergeyVVV@gmail.com'
     },
